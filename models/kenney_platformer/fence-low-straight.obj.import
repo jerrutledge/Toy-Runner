@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6ank73uu1xpo"
+path="res://.godot/imported/fence-low-straight.obj-216dc9e7a8191c74a983f6e7fa09f971.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fence-low-straight.obj-216dc9e7a8191c74a983f6e7fa09f971.mesh"]
+
+source_file="res://models/kenney_platformer/fence-low-straight.obj"
+dest_files=["res://.godot/imported/fence-low-straight.obj-216dc9e7a8191c74a983f6e7fa09f971.mesh", "res://.godot/imported/fence-low-straight.obj-216dc9e7a8191c74a983f6e7fa09f971.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

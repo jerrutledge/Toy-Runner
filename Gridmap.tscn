@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://pap0h1os1ihr"]
+
+[ext_resource type="MeshLibrary" uid="uid://dev4wrd231xp6" path="res://sumtiles_lib.tres" id="1_muxb2"]
+
+[node name="GridMap" type="GridMap"]
+mesh_library = ExtResource("1_muxb2")
+cell_size = Vector3(2, 0.5, 2)
+cell_center_y = false
+data = {
+"cells": PackedInt32Array(0, 0, 0, 65535, 0, 0, 65535, 65535, 0, 0, 65535, 0, 1, 65534, 1, 1, 1, 1441793, 65534, 1, 655361, 65534, 65534, 1048577, 65535, 65534, 1048578, 0, 65534, 1048578, 0, 1, 1441794, 65535, 1, 1441794, 65534, 0, 655362, 65534, 65535, 655362, 1, 65535, 3, 1, 0, 1441795, 2, 65535, 1, 2, 0, 1441793, 1, 2, 1441792, 65537, 2, 1441792, 131073, 2, 1441792, 196609, 2, 1441792, 262145, 2, 1441792, 327681, 2, 1441792)
+}
+metadata/_editor_floor_ = Vector3(0, -1, 0)

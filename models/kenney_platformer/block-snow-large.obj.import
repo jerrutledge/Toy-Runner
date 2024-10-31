@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6c8pysiqr4dx"
+path="res://.godot/imported/block-snow-large.obj-f35888b4f360eeb589809f81113478c7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-snow-large.obj-f35888b4f360eeb589809f81113478c7.mesh"]
+
+source_file="res://models/kenney_platformer/block-snow-large.obj"
+dest_files=["res://.godot/imported/block-snow-large.obj-f35888b4f360eeb589809f81113478c7.mesh", "res://.godot/imported/block-snow-large.obj-f35888b4f360eeb589809f81113478c7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
